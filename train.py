@@ -106,6 +106,7 @@ def train():
     start_epoch = 0
     best_fitness = float('inf')
     attempt_download(weights)
+    print(weights)
     if weights.endswith('.pt'):  # pytorch format
         # possible weights are '*.pt', 'yolov3-spp.pt', 'yolov3-tiny.pt' etc.
         chkpt = torch.load(weights, map_location=device)
