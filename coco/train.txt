@@ -1,1 +1,1 @@
-coco/images/person_00005e7429a94ad4.jpg
+./coco/images/person_00005e7429a94ad4.jpg

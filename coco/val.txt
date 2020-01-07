@@ -1,2 +1,2 @@
-coco/images/person_00005e7429a94ad4.jpg
-coco/images/cat_004ccb5669b648ab.jpg
+../coco/images/person_00005e7429a94ad4.jpg
+../coco/images/cat_004ccb5669b648ab.jpg
